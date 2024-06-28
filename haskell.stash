@@ -1,0 +1,136 @@
+<meta>index: tags<>
+# <#>Haskell<> SpeedSheet
+<meta>index: none<>
+<meta>index: none<>
+
+
+
+# Online Documents
+@
+@ online-docs-only, docs-only
+
+
+### Official Site
+<l><>
+
+### Official Documents
+<l><>
+
+### Official Reference
+<l><>
+
+### Crate
+<l><>
+
+### Source
+<l><>
+
+
+
+# Hello World
+
+
+
+# Install
+@
+@ install-only
+
+
+
+# Language Fundamentals
+@
+@ language-fundamentals-only, fundamentals-only
+
+
+
+# Command-line
+@
+@ commandline, command line, cli, cli-only, command-line-only, commandline-only, commands-only
+
+
+
+# Operators
+@
+@ operators, operations, expressions
+@ operators-only
+
+
+
+# Control Structures
+@
+@ statements, flow
+@ control-only, control-structure-only, control-structures-only
+@ control-statements-only
+
+
+
+# Literals
+@
+@ literals-only, lit-only, literal-only
+
+
+
+# Variables
+@
+@ vars-only, var-only, variable-only, variables-only, assignment
+
+
+
+
+# Data Types
+@
+@ standard, builtin, data-types-only
+
+
+
+# Error Handling
+@
+@ Exceptions, except-only, exception-only, exceptions-only
+@ Errors, error-only, error-handling-only, errors-only
+
+
+
+# Functions
+@
+@ funcs, func-only, funcs-only
+@ fuctions, function-only, functions-only
+
+
+
+# Files
+@
+@ files-only, file-only
+
+
+
+# How To
+@
+@ how-to-only
+
+
+
+# Reference - Symbols
+@
+@ symbols-only, symbol-only, sym-only
+
+
+
+# Reserved Words
+@
+@ keywords, key words
+@ reserved-words-only, reserved-only
+@ keyword-only, keywords-only, key-word-only
+
+
+
+# Acronyms
+@
+@ acronym-only, acronyms-only
+
+
+
+# Terms
+@
+@ term-only, terms-only, glossary, definition, definitions
+
+
